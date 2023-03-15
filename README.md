@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Effezzient](https://play.google.com/store/apps/details?id=app.effezient&hl=en_IN&gl=US)
 
-- 💬 Ask me about **Android, React**
+- 💬 Ask me about **React Native, Android**
 
 - 📫 How to reach me **yashpalraj@gmail.com**
 
