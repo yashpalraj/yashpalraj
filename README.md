@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashpalsinh Raj</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
 
-- 🔭 I’m currently working on [Effezzient](https://play.google.com/store/apps/details?id=app.effezient&hl=en_IN&gl=US)
+- 🔭 I’m currently working with [FPT Software](https://www.fpt-software.com/)
 
 - 💬 Ask me about **React Native, Android**
 
