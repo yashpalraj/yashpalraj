@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashpalsinh Raj</h1>
-<h3 align="center">A passionate mobile application developer from India</h3>
+<h3 align="center">A passionate mobile application developer from Canada</h3>
 
 - 🔭 I’m currently working with [FPT Software](https://www.fpt-software.com/)
 
